@@ -1,0 +1,9 @@
+.feature{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.card{
+    margin: 80px;
+}

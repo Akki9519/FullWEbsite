@@ -1,0 +1,12 @@
+.flex{
+    display:flex;
+    flex-direction: row;
+    padding-left: 800px;
+}
+.link{
+    color:darkblue;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
